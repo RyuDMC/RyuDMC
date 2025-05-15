@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+My name is Oliver Reyes and I'm a Cuban programmer.
+
+## My skills 🚀
+
+[![roadmap.sh](https://roadmap.sh/card/tall/681d93bb42b1a247874c88b1?variant=dark)](https://roadmap.sh)
+
+<!-- Add skills icon, see on Virusgaming or Sn0wm4n profile-->
+
 <!--
 **RyuDMC/RyuDMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
