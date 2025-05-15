@@ -4,7 +4,6 @@ My name is Oliver Reyes and I'm a Cuban programmer.
 
 ## My skills 🚀
 [![skills](https://skillicons.dev/icons?i=cpp,c,py,git,github,linux,vscode,vim&perline=5)](https://skillicons.dev)
-[!]
 [![roadmap.sh](https://roadmap.sh/card/tall/681d93bb42b1a247874c88b1?variant=dark)](https://roadmap.sh)
 
 <!-- Add skills icon, see on Virusgaming or Sn0wm4n profile-->
